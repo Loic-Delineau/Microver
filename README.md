@@ -5,7 +5,7 @@ A modular robotics platform for learning
 # Licence
 Copyright (C) 2023  Loïc Delineau
 
-This program is free software: you can redistribute it and/or modify
+This project is free hardware and software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
